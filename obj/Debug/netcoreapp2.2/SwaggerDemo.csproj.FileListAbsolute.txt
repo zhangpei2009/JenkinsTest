@@ -1,0 +1,14 @@
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/bin/Debug/netcoreapp2.2/SwaggerDemo.xml
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/bin/Debug/netcoreapp2.2/SwaggerDemo.deps.json
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/bin/Debug/netcoreapp2.2/SwaggerDemo.runtimeconfig.json
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/bin/Debug/netcoreapp2.2/SwaggerDemo.runtimeconfig.dev.json
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/bin/Debug/netcoreapp2.2/SwaggerDemo.dll
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/bin/Debug/netcoreapp2.2/SwaggerDemo.pdb
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/obj/Debug/netcoreapp2.2/SwaggerDemo.csproj.CoreCompileInputs.cache
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/obj/Debug/netcoreapp2.2/SwaggerDemo.RazorAssemblyInfo.cache
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/obj/Debug/netcoreapp2.2/SwaggerDemo.RazorAssemblyInfo.cs
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/obj/Debug/netcoreapp2.2/SwaggerDemo.AssemblyInfoInputs.cache
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/obj/Debug/netcoreapp2.2/SwaggerDemo.AssemblyInfo.cs
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/obj/Debug/netcoreapp2.2/SwaggerDemo.RazorTargetAssemblyInfo.cache
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/obj/Debug/netcoreapp2.2/SwaggerDemo.dll
+/Users/zhangpei/Documents/dev/NETCORE/SwaggerDemo/SwaggerDemo/obj/Debug/netcoreapp2.2/SwaggerDemo.pdb

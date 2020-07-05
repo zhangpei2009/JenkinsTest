@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerDemo</name>
+    </assembly>
+    <members>
+        <member name="T:SwaggerDemo.Controllers.ValuesController">
+            <summary>
+            XX类注释
+            </summary>
+        </member>
+        <member name="M:SwaggerDemo.Controllers.ValuesController.Get">
+            <summary>
+            获取所有value的方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerDemo.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            根据ID获取value
+            </summary>
+            <param name="id">编号</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
